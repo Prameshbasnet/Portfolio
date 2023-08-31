@@ -44,8 +44,7 @@ const Data = () => {
 			</h1>
 			<h3 className="home__subtitle">React Developer</h3>
 			<p className="home__description">
-				Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit, fugiat.
-				Lorem ipsum dolor sit amet.
+				Let's connect and build something amazing together!"
 			</p>
 			<a href="#contact" className="button button--flex">
 				Say Hello
